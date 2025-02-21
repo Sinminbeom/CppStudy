@@ -69,6 +69,7 @@ void PrintBoard() {
 	}
 }
 
+/*
 int main() {
 	std::cin >> N;
 
@@ -79,3 +80,4 @@ int main() {
 
 	return 0;
 }
+*/
