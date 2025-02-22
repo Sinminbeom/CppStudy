@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="cpp_study.cpp" />
     <ClCompile Include="list.cpp" />
+    <ClCompile Include="map.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="vector.cpp" />
   </ItemGroup>

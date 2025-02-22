@@ -108,6 +108,7 @@ public:
 	T* _data;
 };
 
+/*
 int main() {
 	Vector<int> v;
 
@@ -127,3 +128,4 @@ int main() {
 	}
 	return 0;
 }
+*/
